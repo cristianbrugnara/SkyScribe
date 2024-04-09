@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: SkyScribe
+Version: 1.0.0
+Summary: Application used to get relevant information about the weather and interact with weather stations.
+Author: Brugnara-DelGrande
+Requires-Python: >=3.10
+Requires-Dist: pandas
+Requires-Dist: requests
