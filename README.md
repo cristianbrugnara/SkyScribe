@@ -1,5 +1,5 @@
 # weather_station
-Academic project done with @delgigio. Web service and client library that aim to manage data and obtain insights from weather stations. Both components were unit-tested.
+Academic project done with [@delgigio](https://github.com/delgigio). Web service and client library that aim to manage data and obtain insights from weather stations. Both components were unit-tested.
 
 NOTE: The imports were done to facilitate the software build with wheel, running a file might cause errors if those aren't changed.
 
